@@ -3,4 +3,4 @@
 
 
 
-`Feel free to ask for suggesting changing or adding to the code.`
+`Feel free to ask for suggesting to change or add code.`
